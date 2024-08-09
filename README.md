@@ -1,9 +1,7 @@
 
-### Hi, I'm Prabuddha!
-
 # 👋 Hi, I'm Prabuddha!
 👩🏻‍💻 Front-End Web Developer<br/>
-🎨 Graphic designer, like to create Designs<br/>
+🎨 Graphic Designer, Like to Create Designs<br/>
 💭 Currently Learning Web Development <br/>
 
 [![Prabuddha's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/prabuddhaganvir/github-readme-stats)
